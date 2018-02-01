@@ -22,6 +22,9 @@ that may need to be seen as a new branch
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+-the changes/ commits are combined. It's easier to visualize
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+-easier to understand when there are conflicts, but there's more security in doing
+it manually
